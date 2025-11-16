@@ -49,3 +49,5 @@ This is a console-based Cafe Management System implemented in C. It provides fun
 
 ## Author
 **Roshaed Al Fardin**
+
+This was a first year project for the **Data Structure** course
